@@ -1,0 +1,12 @@
+F:\колледж\mi\KOLLEGE\OOP\Task10.Model\bin\Debug\Task10.Model.dll
+F:\колледж\mi\KOLLEGE\OOP\Task10.Model\bin\Debug\Task10.Model.pdb
+F:\колледж\mi\KOLLEGE\OOP\Task10.Model\obj\Debug\Task10.Model.csproj.AssemblyReference.cache
+F:\колледж\mi\KOLLEGE\OOP\Task10.Model\obj\Debug\Task10.Model.csproj.CoreCompileInputs.cache
+F:\колледж\mi\KOLLEGE\OOP\Task10.Model\obj\Debug\Task10.Model.dll
+F:\колледж\mi\KOLLEGE\OOP\Task10.Model\obj\Debug\Task10.Model.pdb
+C:\Users\Egor\Desktop\OOP\Proect_10\Task10.Model\bin\Debug\Task10.Model.dll
+C:\Users\Egor\Desktop\OOP\Proect_10\Task10.Model\bin\Debug\Task10.Model.pdb
+C:\Users\Egor\Desktop\OOP\Proect_10\Task10.Model\obj\Debug\Task10.Model.csproj.AssemblyReference.cache
+C:\Users\Egor\Desktop\OOP\Proect_10\Task10.Model\obj\Debug\Task10.Model.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\OOP\Proect_10\Task10.Model\obj\Debug\Task10.Model.dll
+C:\Users\Egor\Desktop\OOP\Proect_10\Task10.Model\obj\Debug\Task10.Model.pdb
