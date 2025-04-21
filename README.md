@@ -11,7 +11,7 @@
 
 1. Окно внесения информации о наличии на складе:
    
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk10---/blob/master/screenshots/screen%201.png)
 
 2.Окно внесения информации о поступлении:
 
