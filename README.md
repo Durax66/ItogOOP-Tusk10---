@@ -15,7 +15,7 @@
 
 2.Окно внесения информации о поступлении:
 
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk10---/blob/master/screenshots/screen%202.png)
 ## Установка
 
 1. Клонируйте репозиторий:
